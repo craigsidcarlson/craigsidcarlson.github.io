@@ -1,12 +1,12 @@
 [submodule "pages/neuroevolution"]
 	path = pages/neuroevolution
-	url = git@github.com:craigsidcarlson/neuroevolution.git
+	url = https://github.com/craigsidcarlson/neuroevolution.git
 [submodule "pages/maze"]
 	path = pages/maze
-	url = git@github.com:craigsidcarlson/maze.git
+	url = https://github.com/craigsidcarlson/maze.git
 [submodule "pages/marchingSquares"]
 	path = pages/marchingSquares
-	url = git@github.com:craigsidcarlson/marchingSquares.git
+	url = https://github.com/craigsidcarlson/marchingSquares.git
 [submodule "pages/boid"]
 	path = pages/boid
-	url = git@github.com:craigsidcarlson/boid.git
+	url = https://github.com/craigsidcarlson/boid.git
