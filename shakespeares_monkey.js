@@ -12,7 +12,7 @@ function init() {
   shakespeare_header = select('#shakespeare_header');
   shakespeare_body = select('#shakespeare_body');
 
-  const possible_header_text = ['Hello World? It\'s Craig', 'Hi my name is Craig', 'Hi, I\'m Craig', 'This is Craig\'s site, leave a message after the beep'];
+  const possible_header_text = ['Hello World, It\'s Craig', 'Hi my name is Craig', 'Hi, I\'m Craig', 'This is Craig\'s site, leave a message after the beep'];
   const target_header_text = possible_header_text[floor(random(possible_header_text.length))];
   const possible_body_text = ['Welcome to my site, feel free to look around', 'Take a look at what I\'ve been working on', 'The smart rocket game is actually pretty fun', 'Like Beer? Take a look at my beer brewing app', 'I\'m looking for a job', 'Full stack developer looking for a home'];
   const target_body_text = possible_body_text[floor(random(possible_body_text.length))];
