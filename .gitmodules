@@ -1,6 +1,7 @@
 [submodule "pages/neuroevolution"]
 	path = pages/neuroevolution
 	url = https://github.com/craigsidcarlson/neuroevolution.git
+	update = "checkout"
 [submodule "pages/maze"]
 	path = pages/maze
 	url = https://github.com/craigsidcarlson/maze.git
