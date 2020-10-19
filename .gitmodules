@@ -1,13 +1,13 @@
-[submodule "pages/neuroevolution"]
+[submodule "neuroevolution"]
 	path = pages/neuroevolution
 	url = https://github.com/craigsidcarlson/neuroevolution.git
 	update = "checkout"
-[submodule "pages/maze"]
+[submodule "maze"]
 	path = pages/maze
 	url = https://github.com/craigsidcarlson/maze.git
-[submodule "pages/marchingSquares"]
+[submodule "marchingSquares"]
 	path = pages/marchingSquares
 	url = https://github.com/craigsidcarlson/marchingSquares.git
-[submodule "pages/boid"]
+[submodule "boid"]
 	path = pages/boid
 	url = https://github.com/craigsidcarlson/boid.git
