@@ -14,7 +14,7 @@ function init() {
 
   const possible_header_text = ['Hi my name is Craig', 'Hi, I\'m Craig', 'Hello! My name is Craig'];
   const target_header_text = possible_header_text[floor(random(possible_header_text.length))];
-  const possible_body_text = ['Welcome to my site, feel free to look around', 'Take a look at what I\'ve been working on', 'The smart rocket game is actually pretty fun', 'Like Beer? Take a look at my beer brewing app', 'I\'m looking for a job', 'Full stack developer looking for a home'];
+  const possible_body_text = ['Welcome to my site, feel free to look around', 'Take a look at what I\'ve been working on', 'The smart rocket game is actually pretty fun', 'Like Beer? Take a look at my beer brewing app', 'This site was created during the year that will not be named'];
   const target_body_text = possible_body_text[floor(random(possible_body_text.length))];
   header = new Population(target_header_text, mutation_rate, population_size);
   body = new Population(target_body_text, mutation_rate, population_size);
